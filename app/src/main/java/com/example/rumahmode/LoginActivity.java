@@ -3,17 +3,12 @@ package com.example.rumahmode;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 
 import com.example.rumahmode.adapters.DatabaseAdapter;
 
-import java.io.ByteArrayOutputStream;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class LoginActivity extends AppCompatActivity {
 
